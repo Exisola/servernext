@@ -1,0 +1,353 @@
+[24Apr2026 15:38:22.208] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.228, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, nogui]
+[24Apr2026 15:38:22.210] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04
+[24Apr2026 15:38:22.212] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.10 by Ubuntu; OS Linux arch amd64 version 6.8.0-1044-azure
+[24Apr2026 15:38:22.424] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Apr2026 15:38:22.502] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/workspaces/servernext/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[24Apr2026 15:38:22.935] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.228:server]
+[24Apr2026 15:38:22.978] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.228-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.1.228/neoforge-21.1.228-universal.jar]], reader: mod manifest]
+[24Apr2026 15:38:22.982] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "~nonexistent" [locator: org.sinytra.connector.locator.ConnectorEarlyLocatorBootstrap@f74e835]
+[24Apr2026 15:38:22.998] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "aether-1.21.1-1.5.10-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.003] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "AetherVillages-1.21.1-1.0.8-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.020] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "architectury-13.0.8-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.025] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "artifacts-neoforge-13.2.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.030] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "balm-neoforge-1.21.1-21.0.57.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.037] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "block_factorys_bosses-2.0.12-neo-1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.040] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "certain_questing_additions-neoforge-1.1.6+mc1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.044] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.047] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "comforts-neoforge-9.0.5+1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.050] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Corgilib-NeoForge-1.21.1-5.0.0.9.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.055] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.058] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cristellib-neoforge-1.21.1-3.0.3.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.063] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.068] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.071] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.074] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "double_axes-1.5.2-1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.077] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dungeons+-1.10.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.079] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dungeons-and-taverns-pillager-outpost-overhaul-v2.2.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.084] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dungeons-and-taverns-v4.4.4.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.087] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dungeons-and-taverns-woodland-mansion-replacement-v1.2.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.090] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DungeonsArise-1.21.1-2.1.68-release.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.092] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.102] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.107] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "friendsandfoes-neoforge-4.0.24+mc1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.110] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-library-neoforge-2101.1.31.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.116] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-quests-neoforge-2101.1.24.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.120] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ftb-teams-neoforge-2101.1.10.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.123] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.8.4.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.126] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "goldenfeather-neoforge-1.21-1.0.5.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.128] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "hardcorerevival-neoforge-1.21.1-21.1.14.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.131] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Iceberg-1.21.1-neoforge-1.3.2.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.133] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.135] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "immersivemessages-neoforge-1.0.18-1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.140] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ironchest-1.21-neoforge-16.0.7.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.150] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ironfurnaces-neoforge-1.21.1-4.3.2.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.155] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.1-NeoForge-15.10.5.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.160] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.27.0.340.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.165] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jeremyseqsdamageindicators-2.2.1-1.21.1-neo.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.167] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "just-hammers-neoforge-21.1.4.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.170] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "knightlib-neoforge-1.21.1-1.3.0.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.173] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "knightquest-neoforge-1.21.1-1.9.0.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.178] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "leathercraft-3.0.0-neoforge-1.21.x.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.182] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lootr-neoforge-1.21.1-1.11.37.118.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.187] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "OctoLib-NEOFORGE-0.6.1+1.21.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.197] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.202] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.0.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.213] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.216] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Paraglider-neoforge-21.1.5.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.219] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Prism-1.21.1-neoforge-1.0.11.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.221] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "puffish_attributes-0.8.2-1.21-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.223] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "puffish_skills-0.17.3-1.21-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.226] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.239] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Quark-4.1-476.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.246] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "repurposed_structures-7.5.20+1.21.1-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.248] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "repurposed_structures_friends_and_foes_compat_v9.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.250] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "resource_nether_ores-neoforge-1.21.1-2.5.0.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.253] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "resourcefullib-neoforge-1.21-3.0.12.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.255] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "resourcelibrary-neoforge-1.21.1-2.10.0.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.258] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.1-3.25.41.1683.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.264] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.1-1.4.25.1696.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "spartanshieldsunofficial-1.0.0-1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.274] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "t_and_t-neoforge-fabric-1.13.7+1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.280] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.282] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tacz-pack-upgrader-2.0.0.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.284] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TerraBlender-neoforge-1.21.1-4.1.0.8.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.287] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tia-neoforge-1.21-1.2.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.294] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "twilightforest-1.21.1-4.8.3345-universal.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.296] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "txnilib-neoforge-1.0.24-1.21.1.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.298] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "waystones-neoforge-1.21.1-21.1.30.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.301] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "xaeroworldmap-neoforge-1.21.1-1.40.11.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.304] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:23.306] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Zeta-1.1-39.jar" [locator: {mods folder locator at /workspaces/servernext/servidor_minecraft/mods}, reader: mod manifest]
+[24Apr2026 15:38:24.341] [main/WARN] [net.neoforged.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: library:net.fabricmc.loader. Using Mod File: /~nonexistent
+[24Apr2026 15:38:24.341] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 90 dependencies adding them to mods collection
+[24Apr2026 15:38:24.341] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-transfer-api-v1-5.4.3+a25cb45619.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.341] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kuma-api-neoforge-21.0.8+1.21.jar" [parent: balm-neoforge-1.21.1-21.0.57.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-api-v1-3.4.1+9125b6dc19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "luaj-core-3.0.8-figura.jar" [parent: tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar, locator: jarinjar]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-0.1.5.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-model-loading-api-v1-2.1.0+6e8f52c719.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.228.jar" [parent: neoforge-21.1.228-universal.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-item-api-v1-11.2.0+0c57911319.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-fluids-v1-3.1.6+a51883b219.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "xaerolib-neoforge-1.21.1-1.1.0.jar" [parent: xaeroworldmap-neoforge-1.21.1-1.40.11.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-screen-handler-api-v1-1.3.90+8dbc56dd19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.342] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-resource-loader-v0-1.3.1+4ea8954419.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-v1-5.1.0+1a09bd5a19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-renderer-indigo-1.7.1+9125b6dc19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "commons-math3-3.6.1.jar" [parent: tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar, locator: jarinjar]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "netty-0.1.4.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-convention-tags-v1-2.1.5+7f945d5b19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "endec-0.1.8.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-core-jvm-1.10.1.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-view-api-v2-1.0.11+e9036fd419.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-convention-tags-v2-2.11.1+87e5848019.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-command-api-v2-2.2.28+36d727be19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.343] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-data-attachment-api-v1-1.4.5+26d408aa19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "yabn-1.0.3.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-io-bytestring-jvm-0.7.0.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "biolith-neoforge-3.0.10.jar" [parent: Quark-4.1-476.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-jdk8-1.10.1.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk7-2.1.10.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-screen-api-v1-2.0.25+4228281319.jar" [parent: forgified-fabric-api-0.115.6+2.1.0+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk8-2.1.10.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-particles-v1-4.0.2+824f924c19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-io-core-jvm-0.7.0.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.344] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "forgified-fabric-api-0.115.6+2.1.0+1.21.1.jar" [parent: txnilib-neoforge-1.0.24-1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-content-registries-v0-8.0.19+5e0d320019.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "common-image-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bytecodecs-1.1.2.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-json-jvm-1.8.0.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-transitive-access-wideners-v1-6.2.0+6c854b6f19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "diagonalblocks-neoforge-21.1.2.jar" [parent: DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "snakeyaml-2.2.jar" [parent: OctoLib-NEOFORGE-0.6.1+1.21.jar, locator: jarinjar]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-1.2.3.jar" [parent: cristellib-neoforge-1.21.1-3.0.3.jar, locator: jarinjar]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.228-universal.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-game-rule-api-v1-1.0.53+36d727be19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.345] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "gson-0.1.5.1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-base-0.4.42+d1308dedd1.jar" [parent: owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-api-lookup-api-v1-1.6.71+c290471319.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-datetime-jvm-0.6.2.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-blockrenderlayer-v1-1.1.52+c290471319.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-block-api-v1-1.1.0+b0c22bb819.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "spectrelib-neoforge-0.17.2+1.21.jar" [parent: comforts-neoforge-9.0.5+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bcel-6.6.1.jar" [parent: tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "imageio-metadata-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-resource-conditions-api-v1-4.3.0+5bdd099819.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "luaj-jse-3.0.8-figura.jar" [parent: tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-cbor-jvm-1.8.0.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "gson-0.2.1.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.346] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-2.1.10.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-reflect-2.1.10.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-item-group-api-v1-4.1.7+e324903319.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-gametest-api-v1-2.0.5+29f188ce19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-biome-api-v1-13.0.31+1e62d33c19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-entity-events-v1-1.8.0+5ede667619.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "json-0.2.1.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "accessories-neoforge-1.1.0-beta.48+1.21.1.jar" [parent: aether-1.21.1-1.5.10-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-registry-sync-v0-5.3.1+f9aace1619.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cumulus_menus-1.21.1-2.0.7-neoforge.jar" [parent: aether-1.21.1-1.5.10-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "s.tf-asm-4.8.3345.jar" [parent: twilightforest-1.21.1-4.8.3345-universal.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "common-io-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-recipe-api-v1-5.0.15+59440bcc19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-object-builder-api-v1-15.2.1+cc242efd19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.347] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-loot-api-v2-3.0.15+a3ee712d19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-loot-api-v3-1.0.3+333dfad919.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "conditional-mixin-neoforge-0.6.4.jar" [parent: immersivedamageindicators-neoforge-1.0.0-1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-rendering-data-attachment-v1-0.3.49+73761d2e19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nitrogen_internals-1.21.1-1.1.25-neoforge.jar" [parent: aether-1.21.1-1.5.10-neoforge.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "imageio-webp-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-networking-api-v1-4.3.0+30a980d919.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-core-jvm-1.8.0.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-sound-api-v1-1.0.23+10b84f8419.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-message-api-v1-6.0.14+6a754fce19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "expandability-neoforge-12.0.0.jar" [parent: artifacts-neoforge-13.2.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.348] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "common-lang-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-lifecycle-events-v1-2.6.0+e40d8add19.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "imageio-core-3.12.0.jar" [parent: yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar" [parent: tacz-pack-upgrader-2.0.0.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-data-generation-api-v1-20.2.34+a4c3605619.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "atomicfu-jvm-0.27.0.jar" [parent: KotlinLangForge-2.6.0-k2.1.10-3.0+neoforge.jar, locator: jarinjar]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-events-interaction-v0-0.7.13+86e0887119.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-key-binding-api-v1-1.0.47+62cc7ce119.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.349] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fabric-client-tags-api-v1-1.1.15+e053909619.jar" [parent: forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[24Apr2026 15:38:24.688] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 0 candidates to load
+[24Apr2026 15:38:24.914] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[24Apr2026 15:38:24.914] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "org.sinytra.connector-2.0.0-beta.14+1.21.1-mod.jar" [parent: , locator: org.sinytra.connector.locator.ConnectorLocator@3185fa6b, reader: mod manifest]
+[24Apr2026 15:38:24.915] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "runtime-1.0.0+1.21.1.jar" [parent: , locator: org.sinytra.connector.locator.ConnectorLocator@3185fa6b, reader: mod manifest]
+[24Apr2026 15:38:24.919] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Accessories 1.1.0-beta.48+1.21.1 (accessories)
+		Aether Villages 1.0.8 (aether_villages)
+		Architectury 13.0.8 (architectury)
+		Artifacts 13.2.1 (artifacts)
+		Balm 21.0.57 (balm)
+		Biolith 3.0.10 (biolith)
+		Bosses'Rise 2.0.12 (block_factorys_bosses)
+		Certain Questing Additions 1.1.5 (certain_questing_additions)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Comforts 9.0.5+1.21.1 (comforts)
+		conditional mixin 0.6.4 (conditional_mixin)
+		CorgiLib 5.0.0.9 (corgilib)
+		CreativeCore 2.13.36 (creativecore)
+		Cristel Lib 3.0.3 (cristellib)
+		Cumulus 2.0.7 (cumulus_menus)
+		Diagonal Blocks 21.1.2 (diagonalblocks)
+		Diagonal Fences 21.1.1 (diagonalfences)
+		Diagonal Walls 21.1.2 (diagonalwalls)
+		Diagonal Windows 21.1.1 (diagonalwindows)
+		Double Axes Extension! 1.5.2 (double_axes)
+		Dungeons and Taverns 1-v4.4.4 (mr_dungeons_andtaverns)
+		Dungeons and Taverns Pillager Outpost Overhaul 1-v2.2 (mr_dungeons_andtavernspillageroutpostoverhaul)
+		Dungeons and Taverns Woodland Mansion Replacement 1-v1.2 (mr_dungeons_andtavernswoodlandmansionreplacement)
+		Dungeons+ 1.10.1 (mr_dungeons)
+		ExpandAbility 12.0.0 (expandability)
+		Forgified Fabric API 0.116.7+2.2.4+1.21.1 (fabric_api)
+		Forgified Fabric API Base 0.4.42+d1308dedd1 (fabric_api_base)
+		Forgified Fabric API Lookup API (v1) 1.6.71+c290471319 (fabric_api_lookup_api_v1)
+		Forgified Fabric Biome API (v1) 13.0.31+1e62d33c19 (fabric_biome_api_v1)
+		Forgified Fabric Block API (v1) 1.1.0+b0c22bb819 (fabric_block_api_v1)
+		Forgified Fabric BlockRenderLayer Registration (v1) 1.1.52+c290471319 (fabric_blockrenderlayer_v1)
+		Forgified Fabric BlockView API (v2) 1.0.11+e9036fd419 (fabric_block_view_api_v2)
+		Forgified Fabric Client Tags 1.1.15+e053909619 (fabric_client_tags_api_v1)
+		Forgified Fabric Command API (v2) 2.2.28+36d727be19 (fabric_command_api_v2)
+		Forgified Fabric Content Registries (v0) 8.0.19+5e0d320019 (fabric_content_registries_v0)
+		Forgified Fabric Convention Tags 2.1.5+7f945d5b19 (fabric_convention_tags_v1)
+		Forgified Fabric Convention Tags (v2) 2.11.1+87e5848019 (fabric_convention_tags_v2)
+		Forgified Fabric Data Attachment API (v1) 1.4.5+26d408aa19 (fabric_data_attachment_api_v1)
+		Forgified Fabric Data Generation API (v1) 20.2.34+a4c3605619 (fabric_data_generation_api_v1)
+		Forgified Fabric Entity Events (v1) 1.8.0+5ede667619 (fabric_entity_events_v1)
+		Forgified Fabric Events Interaction (v0) 0.7.13+86e0887119 (fabric_events_interaction_v0)
+		Forgified Fabric Game Rule API (v1) 1.0.53+36d727be19 (fabric_game_rule_api_v1)
+		Forgified Fabric Game Test API (v1) 2.0.5+29f188ce19 (fabric_gametest_api_v1)
+		Forgified Fabric Item API (v1) 11.2.0+0c57911319 (fabric_item_api_v1)
+		Forgified Fabric Item Group API (v1) 4.1.7+e324903319 (fabric_item_group_api_v1)
+		Forgified Fabric Key Binding API (v1) 1.0.47+62cc7ce119 (fabric_key_binding_api_v1)
+		Forgified Fabric Lifecycle Events (v1) 2.6.0+e40d8add19 (fabric_lifecycle_events_v1)
+		Forgified Fabric Loot API (v2) 3.0.15+a3ee712d19 (fabric_loot_api_v2)
+		Forgified Fabric Loot API (v3) 1.0.3+333dfad919 (fabric_loot_api_v3)
+		Forgified Fabric Message API (v1) 6.0.14+6a754fce19 (fabric_message_api_v1)
+		Forgified Fabric Model Loading API (v1) 2.1.0+6e8f52c719 (fabric_model_loading_api_v1)
+		Forgified Fabric Networking API (v1) 4.3.0+30a980d919 (fabric_networking_api_v1)
+		Forgified Fabric Object Builder API (v1) 15.2.1+cc242efd19 (fabric_object_builder_api_v1)
+		Forgified Fabric Particles (v1) 4.0.2+824f924c19 (fabric_particles_v1)
+		Forgified Fabric Recipe API (v1) 5.0.15+59440bcc19 (fabric_recipe_api_v1)
+		Forgified Fabric Registry Sync (v0) 5.3.1+f9aace1619 (fabric_registry_sync_v0)
+		Forgified Fabric Renderer - Indigo 1.7.1+9125b6dc19 (fabric_renderer_indigo)
+		Forgified Fabric Renderer API (v1) 3.4.1+9125b6dc19 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering (v1) 5.1.0+1a09bd5a19 (fabric_rendering_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.49+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Forgified Fabric Rendering Fluids (v1) 3.1.6+a51883b219 (fabric_rendering_fluids_v1)
+		Forgified Fabric Resource Conditions API (v1) 4.3.0+5bdd099819 (fabric_resource_conditions_api_v1)
+		Forgified Fabric Resource Loader (v0) 1.3.1+4ea8954419 (fabric_resource_loader_v0)
+		Forgified Fabric Screen API (v1) 2.0.25+4228281319 (fabric_screen_api_v1)
+		Forgified Fabric Screen Handler API (v1) 1.3.90+8dbc56dd19 (fabric_screen_handler_api_v1)
+		Forgified Fabric Sound API (v1) 1.0.23+10b84f8419 (fabric_sound_api_v1)
+		Forgified Fabric Transfer API (v1) 5.4.3+a25cb45619 (fabric_transfer_api_v1)
+		Forgified Fabric Transitive Access Wideners (v1) 6.2.0+6c854b6f19 (fabric_transitive_access_wideners_v1)
+		Friends&Foes 4.0.24 (friendsandfoes)
+		FTB Library 2101.1.31 (ftblibrary)
+		FTB Quests 2101.1.24 (ftbquests)
+		FTB Teams 2101.1.10 (ftbteams)
+		GeckoLib 4 4.8.4 (geckolib)
+		Golden Feather 1.0.5 (goldenfeather)
+		Hardcore Revival 21.1.14 (hardcorerevival)
+		Iceberg 1.3.2 (iceberg)
+		Immersive Damage Indicators 1.0.0 (immersivedamageindicators)
+		Immersive Messages API 1.0.18 (immersivemessages)
+		Iron Chests 1.21-neoforge-16.0.7 (ironchest)
+		Iron Furnaces 4.3.2 (ironfurnaces)
+		Jade 15.10.5+neoforge (jade)
+		JeremySeq's Damage Indicators 2.2.1-1.21.1 (jeremyseqsdamageindicators)
+		Just Enough Items 19.27.0.340 (jei)
+		Just Hammers 21.1.4 (justhammers)
+		Knight Lib 1.3.0 (knightlib)
+		Knight Quest 1.9.0 (knightquest)
+		KumaAPI 21.0.8 (kuma_api)
+		Leather Craft 3.0.0 (leather_craft)
+		Lootr 1.21.1-1.11.37.118 (lootr)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.228 (neoforge)
+		Nitrogen 1.1.25 (nitrogen_internals)
+		OctoLib 0.6.1 (octolib)
+		Oh The Biomes We've Gone 2.5.5 (biomeswevegone)
+		Oh The Trees You'll Grow 5.3.0 (ohthetreesyoullgrow)
+		oωo 0.12.15.5-beta.1+1.21 (owo)
+		Paraglider 21.1.5 (paraglider)
+		Prism 1.0.11 (prism)
+		Pufferfish's Attributes 0.8.2 (puffish_attributes)
+		Pufferfish's Skills 0.17.3 (puffish_skills)
+		Puzzles Lib 21.1.39 (puzzleslib)
+		Quark 4.1-476 (quark)
+		Repurposed Structures 7.5.20+1.21.1-neoforge (repurposed_structures)
+		Repurposed Structures - Friends & Foes Compat 9 (repurposed_structures_friends_and_foes_compat)
+		Resource Library 1.21.1-2.10.0 (resourcelibrary)
+		Resource Nether Ores 1.21.1-2.5.0 (resource_nether_ores)
+		Resourceful Lib 3.0.12 (resourcefullib)
+		Sinytra Connector 2.0.0-beta.14+1.21.1 (connector)
+		Sophisticated Backpacks 3.25.41 (sophisticatedbackpacks)
+		Sophisticated Core 1.4.25 (sophisticatedcore)
+		Spartan Shields Unofficial 1.0.0 (spartanshieldsunofficial)
+		SpectreLib 0.17.2+1.21 (spectrelib)
+		TaCZ Pack Upgrader 2.0.0 (taczpackupgrader)
+		TerraBlender 4.1.0.8 (terrablender)
+		The Aether 1.5.10 (aether)
+		The Twilight Forest 4.8.3345 (twilightforest)
+		Timeless & Classics Guns: Zero 1.1.7-hotfix-r5 (tacz)
+		Tiny Item Animations 1.2.1 (tia)
+		Towns and Towers 1.13.7 (t_and_t)
+		TxniLib 1.0.24 (txnilib)
+		Waystones 21.1.30 (waystones)
+		When Dungeons Arise 2.1.68 (dungeons_arise)
+		When Dungeons Arise: Seven Seas 1.0.4 (dungeons_arise_seven_seas)
+		Xaero's World Map 1.40.11 (xaeroworldmap)
+		XaeroLib 1.1.0 (xaerolib)
+		YetAnotherConfigLib 3.8.2+1.21.1-neoforge (yet_another_config_lib_v3)
+		Zeta 1.1-39 (zeta)
+[24Apr2026 15:38:25.505] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[24Apr2026 15:38:25.506] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module brigadier transformable
+[24Apr2026 15:38:25.514] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [xaeroworldmap]
+[24Apr2026 15:38:27.638] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Apr2026 15:38:27.642] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[24Apr2026 15:38:27.888] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Apr2026 15:38:27.919] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.922] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.928] [main/WARN] [mixin/]: Reference map 'aether.refmap.json' for aether.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.931] [main/WARN] [mixin/]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.938] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.962] [main/WARN] [mixin/]: Reference map 'resourcelibrary.refmap.json' for resourcelibrary.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.965] [main/WARN] [mixin/]: Reference map '' for accessories-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.968] [main/WARN] [mixin/]: Reference map '' for accessories-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.969] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.969] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.974] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.979] [main/WARN] [mixin/]: Reference map 'tia.refmap.json' for tia.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.981] [main/WARN] [mixin/]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.982] [main/WARN] [mixin/]: Reference map 'tacz.refmap.json' for tacz.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.984] [main/WARN] [mixin/]: Reference map 'tacz.refmap.json' for tacz.compat.acceleratedrendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.986] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.988] [main/WARN] [mixin/]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.991] [main/WARN] [mixin/]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.993] [main/WARN] [mixin/]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.995] [main/WARN] [mixin/]: Reference map 'friendsandfoes.refmap.json' for friendsandfoes-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.996] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.997] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:27.999] [main/WARN] [mixin/]: Reference map 'knightquest.refmap.json' for knightquest.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.001] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.002] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.010] [main/WARN] [mixin/]: Reference map 'zeta.mixins.refmap.json' for zeta.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.014] [main/WARN] [mixin/]: Reference map 'zeta.mixins.refmap.json' for zeta_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.015] [main/WARN] [mixin/]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.016] [main/WARN] [mixin/]: Reference map 'hardcorerevival.refmap.json' for hardcorerevival.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.018] [main/WARN] [mixin/]: Reference map 'quark.mixins.refmap.json' for quark.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.019] [main/WARN] [mixin/]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.022] [main/WARN] [mixin/]: Reference map 'certain_questing_additions-forge-1.20.1-forge-refmap.json' for certain_questing_additions.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.109] [main/WARN] [mixin/]: Reference map 'quark.mixins.refmap.json' for quark_integrations.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.118] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Apr2026 15:38:28.587] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/AbstractContraptionEntity (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.AbstractContraptionEntity)
+[24Apr2026 15:38:28.587] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.AbstractContraptionEntity was not found sophisticatedcore.mixins.json:MixinAbstractContraptionEntity from mod sophisticatedcore
+[24Apr2026 15:38:28.989] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/controllable/client/binding/context/BindingContext (java.lang.ClassNotFoundException: com.mrcrayfish.controllable.client.binding.context.BindingContext)
+[24Apr2026 15:38:29.618] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[24Apr2026 15:38:31.120] [main/ERROR] [net.neoforged.fml.common.asm.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Apr2026 15:38:31.121] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
